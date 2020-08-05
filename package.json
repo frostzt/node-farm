@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "First project to learn Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frostzt/node-farm.git"
+  },
+  "author": "Sourav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frostzt/node-farm/issues"
+  },
+  "homepage": "https://github.com/frostzt/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
